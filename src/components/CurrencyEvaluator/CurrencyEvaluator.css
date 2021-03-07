@@ -1,0 +1,15 @@
+.currency-evaluator {
+  background-color: #38517E;
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 100px;
+}
+
+.client-send {
+  max-height: 72px;
+  min-width: 308px;
+  padding: 28px 12px 4px;
+  font-size: 22px;
+  line-height: 32px;
+}
